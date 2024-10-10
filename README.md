@@ -1,1 +1,1 @@
-# Heart-Beat-Measurement-Device
+This project involves the development of a heartbeat measurement device that uses an IR LED and photodiode, along with a filtering circuit, to detect and measure pulse signals.The device is integrated with DAQ caed and LABVIEW software, which counts the detected pulses over 60 seconds and calculates the heart rate in beats per minute (BPM). The system then analyzes the BPM value to provide real-time predictions and warnings to the user, ensuring continuous monitoring of heart health.
